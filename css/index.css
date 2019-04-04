@@ -487,6 +487,7 @@ h5 {
 
   .cta img {
     display: none;
+
     margin-top: 69px;
   }
 
@@ -494,6 +495,7 @@ h5 {
     border-top: 1px solid black;
     margin-top: 76px;
     padding-top: 39px;
+    width: 50%;
   }
 
   .main-content .top-content {
@@ -512,6 +514,7 @@ h5 {
 
   .main-content .middle-img {
     margin-top: 45px;
+    width: 100%;
   }
 
   .main-content .bottom-content {
@@ -533,6 +536,7 @@ h5 {
     margin-top: 57px;
     border-top: 1px solid black;
     padding: 39px 10px 0;
+    width: 50%;
   }
 
   .contact p {
